@@ -1,7 +1,7 @@
 ## Installation
 #### Copy repository
 ```bash
-git clone https://github.com/Borouch/AMS-teltonika.git
+git clone https://github.com/Borouch/mini_crm
 ```
 
 Move into the project directory
